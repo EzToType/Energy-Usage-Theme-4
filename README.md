@@ -6,6 +6,14 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
    background-color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHn-J2qtLMCVRnAP6GKVovdJQdTmIjtbHxw&usqp=CAU");
+  background-color: #cccccc;
+  height: 1235px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-attachment: fixed;
+}
 }
 * {
   box-sizing: border-box;
@@ -54,23 +62,14 @@ body {
 .menu li:hover {
   background-color: #0099cc;
 }
-.background {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHn-J2qtLMCVRnAP6GKVovdJQdTmIjtbHxw&usqp=CAU");
-  background-color: #cccccc;
-  height: 1235px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
- background-attachment: fixed;
-}
+
 
 
 </style>
 </head>
 <body>
 
-<div class="background">
- 
+
    <div class="header">
   <h1>Energy Usage</h1>
 </div>
@@ -105,7 +104,7 @@ body {
 <div class="footer">
   <p>Thanks to https://www.w3schools.com</p>
 </div>
-  </div>
+ 
 
 
 
