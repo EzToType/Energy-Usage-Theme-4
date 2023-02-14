@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
    background-color: white;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHn-J2qtLMCVRnAP6GKVovdJQdTmIjtbHxw&usqp=CAU");
+    background-image: url(https://cdn.wallpapersafari.com/27/6/0UGqvY.jpg");
   background-color: #cccccc;
   height: 1235px;
   background-position: center;
