@@ -21,7 +21,7 @@ body {
 
 
 .header, .footer {
-  background-color: grey;
+  background-color:rgb(199, 0, 57);
   color: white;
   padding: 20px;
 }
@@ -43,7 +43,7 @@ body {
 
 .content {
   width: 75%;
-  color:rgb(255, 0, 225);
+  color:rgb(232, 214, 16);
 }
 
 .menu ul {
